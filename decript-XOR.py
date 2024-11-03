@@ -19,5 +19,3 @@ for c in charset:
         print("")
         print(f"key:{key.decode()}")
         print(f"flag:{dec_flag}")
-
-
